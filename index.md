@@ -1,4 +1,3 @@
-## MY BIOGRAPHY
 ### MARCO VERDE
 aka "Verdem"
 
