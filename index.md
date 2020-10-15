@@ -83,4 +83,4 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 ### WEBSITE COPY
 
-[archive.today link](http://archive.today/eBySX)
+[GP Markdown](http://verdem-crypto.github.io/index.md) | [GP Markdown](http://verdem-crypto.github.io/index.md)
