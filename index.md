@@ -86,4 +86,6 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
-### [archive.today link](http://archive.today/eBySX)
+### verdem-crypto.github.io WEBSITE COPY
+
+[archive.today link](http://archive.today/eBySX)
