@@ -69,9 +69,7 @@ Discord (ENG-ITA): Verdem#5324
 
 # SUPPORT ME
 
-[Buy me a coffee (ENG)](http://www.buymeacoffee.com/Verdem)
-
-[Buy my merch because i'm cool (ENG)](http://teespring.com/stores/verdem)
+[![Discord](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Verdem)
 
 # OTHER
 
