@@ -1,8 +1,7 @@
 # VERDEM
-# MY BIOGRAPHY
 
-## MARCO VERDE
-
+## MY BIOGRAPHY
+### MARCO VERDE
 aka "Verdem"
 
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube.  
@@ -11,9 +10,9 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](https://github.com/Verdem-crypto/me/blob/master/bio.md#contact-me)
 
-# MY PROJECTS
+## MY PROJECTS
 
-## WEBSITES
+### WEBSITES
 
 > [EmailSharing (ENG)](http://emailsharing.blogspot.com/)
 >
@@ -47,11 +46,11 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
-## MUSIC
+### MUSIC
 
 [PartyBeats](http://youtu.be/A4_2Zb_kr04)
 
-# CONTACT ME
+## CONTACT ME
 
 [Twitter (eng-ITA)](http://twitter.com/verdemchannel)
 
@@ -67,11 +66,11 @@ Discord (ENG-ITA): Verdem#5324
 
 [GitHub pages (ENG)](http://verdem-crypto.github.io/)
 
-# SUPPORT ME
+## SUPPORT ME
 
 [![Discord](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Verdem)
 
-# OTHER
+## OTHER
 
 ### TERMS LEGEND
 
