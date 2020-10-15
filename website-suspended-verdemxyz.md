@@ -56,6 +56,7 @@ I made the hard decision to close verdem.xyz, the email boxes will remain open u
 >Name Server: dns2.registrar-servers.com
 >DNSSEC: unsigned
 >URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>>> Last update of WHOIS database: 2020-10-14T22:31:11.08Z <<<
+>Last update of WHOIS database: 2020-10-14T22:31:11.08Z
 >For more information on Whois status codes, please visit https://icann.org/epp
+
 [HOMEPAGE](http://verdem-crypto.github.io/)
