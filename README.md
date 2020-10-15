@@ -1,2 +1,2 @@
 # verdem-crypto.github.io
-My GitHub pages website source code
+[My Bio](https://github.com/Verdem-crypto/me/blob/master/bio.md)
