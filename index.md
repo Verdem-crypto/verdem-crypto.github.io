@@ -1,123 +1,92 @@
----
-layout: default
----
+# Verdem
+[![Verdem Logo](https://iili.io/2b5bLb.png)](https://github.com/Verdem-crypto/me/blob/master/bio.md#marco-verde)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# INTRODUCTION
 
-[Link to another page](./another-page.html).
+## MARCO VERDE
 
-There should be whitespace between paragraphs.
+aka "Verdem"
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube.  
 
-# Header 1
+My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active, in the meantime I had fun uploading videos that were fun for me. Around 2019 things started to get serious with Copyright and various things so I saw a turning point needed: I started making videos according to what people liked, and of course me too. The desire to create something useful for people led me to create an application repository on my first serious website. We arrive at the beginning of 2020: I have 430 subscribers on YouTube, a Discord server and a blog, I made a song, PartyBeats, the song that I and GreenFire003 created. In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](https://github.com/Verdem-crypto/me/blob/master/bio.md#contact-me)
 
-## Header 2
+# MY PROJECTS
 
-> This is a blockquote following a header.
+## WEBSITES
+
+> [EmailSharing (ENG)](http://emailsharing.blogspot.com/)
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>> Email address sharing service (TEMP MAIL). There is no need to register. The service is free!
 
-### Header 3
+>[VerdemBlog (ITA)](http://verdemblog.blogspot.com/)
+>
+>>All the most important tech news in one place. There is no need to register. The service is free!
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+>[VerForward (ITA)](http://verforward.blogspot.com/) (CLOSED!)
+>
+>>Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+>[VerUrlCamo (ENG)](http://verurlcamo.blogspot.com/)
+>
+>>This service helps disguise links so you can play pranks on your friends! There is no need to register. The service is free!
 
-#### Header 4
+>[VerBin (ENG)](http://verdemtv.page.link/verbin/) (IN MAINTENANCE)
+>
+>>VerBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. There is no need to register. The service is free!
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+>[VerHost (ENG)](http://verdemtv.page.link/verhost/)
+>
+>>VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
-##### Header 5
+>[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml)
+>
+>>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+>[VerMUSH (ENG)](http://verdemtv.page.link/vermush)
+>
+>>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
-###### Header 6
+## MUSIC
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[PartyBeats](http://youtu.be/A4_2Zb_kr04)
 
-### There's a horizontal rule below this.
+# CONTACT ME
 
-* * *
+[Twitter (eng-ITA)](http://twitter.com/verdemchannel)
 
-### Here is an unordered list:
+[GitHub (ENG-ita)](http://github.com/Verdem-crypto)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[YouTube channel (eng-ITA)](http://www.youtube.com/Verdem)
 
-### And an ordered list:
+[Email (ENG-ITA)](mailto:verdemcontact@gmail.com)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Discord (ENG-ITA): Verdem#5324
 
-### And a nested list:
+[Discord server (ITA)](http://discord.gg/MQPfYh4)
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[GitHub pages (ENG)](http://verdem-crypto.github.io/)
 
-### Small image
+# SUPPORT ME
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[Buy me a coffee (ENG)](http://www.buymeacoffee.com/Verdem)
 
-### Large image
+[Buy my merch because i'm cool (ENG)](http://teespring.com/stores/verdem)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# OTHER
 
+### TERMS LEGEND
 
-### Definition lists can be used with HTML syntax.
+ENG= MORE (OR ALL) ENGLISH LANGUAGE
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+ITA= MORE (OR ALL) ITALIAN LANGUAGE
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+ita= LESS ITALIAN LANGUAGE
 
-```
-The final element.
-```
+eng= LESS ENGLISH LANGUAGE
+
+ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
+
+ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
