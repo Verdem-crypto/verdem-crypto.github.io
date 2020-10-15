@@ -68,7 +68,7 @@ Discord (ENG-ITA): Verdem#5324
 
 ## SUPPORT ME
 
-[![Discord](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Verdem)
+[![Discord](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
 
 ## OTHER
 
