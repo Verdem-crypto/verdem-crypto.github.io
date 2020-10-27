@@ -85,3 +85,5 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [GitHub Markdown](http://github.com/Verdem-crypto/verdem-crypto.github.io/blob/main/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="73bb5be4-f892-44d2-b67a-f7346e20ba41";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
