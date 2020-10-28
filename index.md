@@ -66,19 +66,19 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## OTHER
 
-<sub><sup>***TERMS LEGEND***</sup></sub>
+### TERMS LEGEND
 
-<sub><sup>ENG= MORE (OR ALL) ENGLISH LANGUAGE</sup></sub>
+ENG= MORE (OR ALL) ENGLISH LANGUAGE
 
-<sub><sup>ITA= MORE (OR ALL) ITALIAN LANGUAGE</sup></sub>
+ITA= MORE (OR ALL) ITALIAN LANGUAGE
 
-<sub><sup>ita= LESS ITALIAN LANGUAGE</sup></sub>
+ita= LESS ITALIAN LANGUAGE
 
-<sub><sup>eng= LESS ENGLISH LANGUAGE</sup></sub>
+eng= LESS ENGLISH LANGUAGE
 
-<sub><sup>ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE</sup></sub>
+ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
-<sub><sup>ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE</sup></sub>
+ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 ### PAGE TYPE
 
