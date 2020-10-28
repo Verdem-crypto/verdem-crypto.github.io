@@ -46,6 +46,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## CONTACT ME
 
+[![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
+
 [Twitter (eng-ITA)](http://twitter.com/verdemchannel)
 
 [GitHub (ENG-ita)](http://github.com/Verdem-crypto)
@@ -53,9 +55,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 [YouTube channel (eng-ITA)](http://www.youtube.com/Verdem)
 
 [Email (ENG-ITA)](mailto:verdemcontact@gmail.com)
-
-[![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
-Discord (ENG-ITA): Verdem#5324
 
 [Discord server (ITA)](http://discord.gg/MQPfYh4)
 
