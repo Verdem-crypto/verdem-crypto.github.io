@@ -5,3 +5,5 @@ I made the hard decision to close verdem.xyz, the email boxes will remain open u
 [Here](http://www.namecheap.com/domains/whois/result?domain=verdem.xyz) you will find the WHOIS informations about the domain.
 
 [Here](http://verdem-crypto.github.io/) you can go back.
+
+<script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
