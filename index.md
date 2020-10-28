@@ -40,6 +40,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
+>Another 3 are under construction, they are not ready yet but will be soon!
+
 ### MUSIC
 
 [PartyBeats](http://youtu.be/A4_2Zb_kr04)
