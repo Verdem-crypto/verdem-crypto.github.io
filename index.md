@@ -1,4 +1,4 @@
-<div id="ziznyciiqvzgvz"><div class="adBanner">.</div></div> 
+<div id="ziznyciiqvzgvz"><div class="adBanner">AdBlocker checking, please wait...</div></div> 
 <script> 
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
