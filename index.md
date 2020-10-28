@@ -1,8 +1,10 @@
 ### MARCO VERDE (VERDEM)
 #### ABOUT ME
 ##### YOUTUBER, VIDEOMAKER, DEVELOPER, DUMBASS
-Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube.
-My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active, in the meantime I had fun uploading videos that were fun for me. Around 2019 things started to get serious with Copyright and various things so I saw a turning point needed: I started making videos according to what people liked, and of course me too. The desire to create something useful for people led me to create an application repository on my first serious website. We arrive at the beginning of 2020: I have 430 subscribers on YouTube, a Discord server and a blog, I made a song, PartyBeats, the song that I and GreenFire003 created. In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube.
+Hi, my name is Marco and I am a student in Italy, I love making websites and videos on YouTube, i also love making music!
+
+#### MY LIFE
+My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active, in the meantime I had fun uploading small videos, from there I don't remember anything so let's move on to 2019. Around 2019 things started to get serious with Copyright (I found that copyright sucked more than I thought) and various things so I saw a turning point needed: I started making videos according to what people liked most (a little bit like Dream, the YouTuber who took advantage of YouTube trends to become famous). We arrive at the beginning of 2020: I am a PROFESSIONAL YouTube video clickbaiter, (call me, Elon Musk, I am here) I have 440 subscribers on YouTube, a Discord server and a blog, I made a song (PartyBeats), the song that I and GreenFire003 created. In my spare time I like to learn more about PHP and JavaScript and do blog posts and of course stupid things on YouTube.
 
 [![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
 
