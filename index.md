@@ -170,6 +170,21 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [GitHub Markdown](http://github.com/Verdem-crypto/verdem-crypto.github.io/blob/main/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
 
+### ADS
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gw-3+1f-3d+2z"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="9292587420"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+***The ads are here to support my work, sorry for them...***
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- verdem-crypto1 -->
 <ins class="adsbygoogle"
