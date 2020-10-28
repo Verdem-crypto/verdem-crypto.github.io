@@ -86,6 +86,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 ### MUSIC
 
 >[PartyBeats](http://youtu.be/A4_2Zb_kr04)
+>
+>>A little arranged, but I'm proud of what came out of it.
 
 >Another 3 songs are under construction, they are not ready yet but will be soon!
 
