@@ -69,7 +69,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
->Another 3 are under construction, they are not ready yet but will be soon!
+>Another 3 websites are under construction, they are not ready yet but will be soon!
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- verdem-crypto1 -->
@@ -85,7 +85,9 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### MUSIC
 
-[PartyBeats](http://youtu.be/A4_2Zb_kr04)
+>[PartyBeats](http://youtu.be/A4_2Zb_kr04)
+
+>Another 3 songs are under construction, they are not ready yet but will be soon!
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- verdem-crypto1 -->
