@@ -119,6 +119,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [GitHub pages (ENG)](http://verdem-crypto.github.io/)
 
+[VerdemForums PM (ENG-ITA)](http://verdemtv.altervista.org/forum/private.php?action=send&uid=1)
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- verdem-crypto1 -->
 <ins class="adsbygoogle"
