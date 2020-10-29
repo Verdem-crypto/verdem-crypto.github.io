@@ -195,5 +195,4 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="73bb5be4-f892-44d2-b67a-f7346e20ba41";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
