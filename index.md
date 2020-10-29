@@ -149,6 +149,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<script async src='https://cse.google.com/cse.js?cx=b9d78546079d9726f'></script><div class="gcse-searchbox-only"></div>
+
 ## OTHER
 
 ### TERMS LEGEND
