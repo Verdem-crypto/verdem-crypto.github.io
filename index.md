@@ -7,8 +7,6 @@ document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){do
 
 <iframe src="https://verdemtv.altervista.org/verdemads/scriptJc3nHCbF6HcMeHQ9.php?utm_source=verdem-crypto-github-io-affiliate&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
-<iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
-
 ### MARCO VERDE (VERDEM)
 #### ABOUT ME
 ##### YOUTUBER, VIDEOMAKER, DEVELOPER, DUMBASS
@@ -55,7 +53,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another 3 websites are under construction, they are not ready yet but will be soon!
 
-<iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+<iframe src="https://verdemtv.altervista.org/verdemads/scriptJc3nHCbF6HcMeHQ9.php?utm_source=verdem-crypto-github-io-affiliate&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### MUSIC
 
@@ -85,7 +83,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [VerdemForums PM (ENG-ITA)](http://verdemtv.altervista.org/forum/private.php?action=send&uid=1)
 
-<iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+<iframe src="https://verdemtv.altervista.org/verdemads/scriptJc3nHCbF6HcMeHQ9.php?utm_source=verdem-crypto-github-io-affiliate&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## SUPPORT ME
 
@@ -113,7 +111,7 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
-<iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+<iframe src="https://verdemtv.altervista.org/verdemads/scriptJc3nHCbF6HcMeHQ9.php?utm_source=verdem-crypto-github-io-affiliate&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### PAGE TYPE
 
