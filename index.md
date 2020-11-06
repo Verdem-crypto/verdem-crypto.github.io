@@ -3,7 +3,7 @@
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
 
-<p><a href="https://verdemblog.blogspot.com/"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
+<p><a href="https://verdemblog.blogspot.com/"><img style="display: block;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
 
 <iframe src="https://verdemtv.altervista.org/verdemads/scriptJc3nHCbF6HcMeHQ9.php?utm_source=verdem-crypto-github-io-affiliate&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
