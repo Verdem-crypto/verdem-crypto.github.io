@@ -3,6 +3,8 @@
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
 
+<p><a href="https://verdemblog.blogspot.com/"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- verdem-crypto1 -->
 <ins class="adsbygoogle"
