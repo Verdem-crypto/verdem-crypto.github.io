@@ -5,9 +5,7 @@ document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){do
 
 <p><a href="https://verdemblog.blogspot.com/"><img style="display: block;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
 
-<div align="center">
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=WEBSITE-NAME&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-</div>
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### MARCO VERDE (VERDEM)
 #### ABOUT ME
@@ -55,9 +53,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another 3 websites are under construction, they are not ready yet but will be soon!
 
-<div align="center">
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=WEBSITE-NAME&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-</div>
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### MUSIC
 
@@ -87,9 +83,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [VerdemForums PM (ENG-ITA)](http://verdemtv.altervista.org/forum/private.php?action=send&uid=1)
 
-<div align="center">
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=WEBSITE-NAME&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-</div>
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## SUPPORT ME
 
@@ -117,9 +111,7 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
-<div align="center">
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=WEBSITE-NAME&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-</div>
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### PAGE TYPE
 
