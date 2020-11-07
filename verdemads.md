@@ -1,5 +1,5 @@
 # VerdemADS transparency section
-VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 300 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $2.50 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising associations, really!
+VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 300 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $2.50 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising associations, really! VerdemADS will browse your website and choose the perfect ads, the ones seen on this page are sample ads.
 
 If you are an advertiser, let's start from the facts, not all are the same, contact us and we will know how to help you, whatever your budget is!
 
