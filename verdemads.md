@@ -24,6 +24,8 @@ We may use cookies, JavaScript and third party components on our main website.
 
 Since we aim to be a fully transparent business, the website statistics are considered public information.
 
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
+
 ## VerdemADS Terms of service
 
 # Limitation of Liability
@@ -43,7 +45,6 @@ No refunds are possible once funds have been paid to the publisher.
 VerdemADS reserves the right to reject any ads which may be illegal or considered harmful. Ads with sensitive or questionable content will be marked as such.
 
 Ads may be banned at any time, and the remaining funds in the account may be refunded to the advertiser after deduction of any costs incurred by VerdemADS.
-
 
 # Fees
 
@@ -68,3 +69,5 @@ For publishers, we accept all websites starting from 300 visits per month.
 # Changes
 
 These Terms of Service and all statements on the site may be modified at any time without prior notice. It is the sole and entire responsibility of the user to stay informed with the terms of service at all times.
+
+<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
