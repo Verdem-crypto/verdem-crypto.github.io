@@ -7,3 +7,19 @@ REGISTRATIONS ARE CLOSED FOR NOW
 
 [Privacy Policy](https://verdem-cdn1.vercel.app/verdemads/pp.html) | [Terms of Service](https://verdem-cdn1.vercel.app/verdemads/tos.html)
 <iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
+
+## VerdemADS Privacy Policy
+
+**VerdemADS is an advertising network that respects your privacy.**
+
+**Our Ads**
+
+Our ads are HTML/CSS. They may contain graphic images (including animated GIFs) but not Flash/PHP.
+
+Our ad servers don't leave cookies on visitors' computers.
+
+**Our Site**
+
+We may use cookies, JavaScript and third party components on our main website.
+
+Since we aim to be a fully transparent business, the website statistics are considered public information.
