@@ -3,12 +3,12 @@ VerdemADS is a newcomer in the advertising field, we needed an online advertisin
 
 If you are an advertiser, let's start from the facts, not all are the same, contact us and we will know how to help you, whatever your budget is!
 
-REGISTRATIONS ARE CLOSED FOR NOW
+**REGISTRATIONS ARE CLOSED FOR NOW**
 
 [Privacy Policy](https://verdem-cdn1.vercel.app/verdemads/pp.html) | [Terms of Service](https://verdem-cdn1.vercel.app/verdemads/tos.html)
 <iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
-## VerdemADS Privacy Policy
+## Privacy Policy
 
 **VerdemADS is an advertising network that respects your privacy.**
 
@@ -18,6 +18,10 @@ Our ads are HTML/CSS. They may contain graphic images (including animated GIFs) 
 
 Our ad servers don't leave cookies on visitors' computers.
 
+VerdemADS is not responsible for the ads on its platform, the one who uploaded the ad on VerdemADS is completely responsible for his ad.
+
+For more informations read [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service).
+
 ### Our Site
 
 We may use cookies, JavaScript and third party components on our main website.
@@ -26,7 +30,7 @@ Since we aim to be a fully transparent business, the website statistics are cons
 
 <iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
-## VerdemADS Terms of service
+## Terms of service
 
 ### Limitation of Liability
 
