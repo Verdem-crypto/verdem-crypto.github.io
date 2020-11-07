@@ -5,7 +5,8 @@ If you are an advertiser, let's start from the facts, not all are the same, cont
 
 **REGISTRATIONS ARE CLOSED FOR NOW**
 
-[Privacy Policy](https://verdem-cdn1.vercel.app/verdemads/pp.html) | [Terms of Service](https://verdem-cdn1.vercel.app/verdemads/tos.html)
+[Privacy Policy](https://verdem-crypto.github.io/verdemads.html#privacy-policy) | [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service)
+
 <iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## Privacy Policy
