@@ -87,7 +87,10 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## SUPPORT ME
 
-[![Discord](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
+[![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
+
+<script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
+<button class="bitcoinate" data-size="30" data-address="1Q85YekDnc1vhaTvRHCyA3ULLz1y3SZvzf">bitcoinate</button>
 
 Or search via the search bar below to support me!
 
