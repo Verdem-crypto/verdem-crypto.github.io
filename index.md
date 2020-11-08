@@ -1,3 +1,6 @@
+<head>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script><script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+  </head>
 <div id="ziznyciiqvzgvz"><div class="adBanner">AdBlocker checking, please wait...</div></div> 
 <script> 
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
@@ -89,8 +92,26 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
 
-<script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
-<button class="bitcoinate" data-size="30" data-address="1Q85YekDnc1vhaTvRHCyA3ULLz1y3SZvzf">bitcoinate</button>
+<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
+     data-address="1Q85YekDnc1vhaTvRHCyA3ULLz1y3SZvzf"
+     data-shared="false">
+    <div class="blockchain stage-begin">
+        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    </div>
+    <div class="blockchain stage-loading" style="text-align:center">
+        <img src="https://blockchain.info/Resources/loading-large.gif"/>
+    </div>
+    <div class="blockchain stage-ready">
+         <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+         <p align="center" class="qr-code"></p>
+    </div>
+    <div class="blockchain stage-paid">
+         Donation of <b>[[value]] BTC</b> Received. Thank You.
+    </div>
+    <div class="blockchain stage-error">
+        <font color="red">[[error]]</font>
+    </div>
+</div>
 
 Or search via the search bar below to support me!
 
