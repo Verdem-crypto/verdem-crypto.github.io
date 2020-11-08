@@ -21,6 +21,8 @@ Our ad servers don't leave cookies on visitors' computers.
 
 VerdemADS is not responsible for the ads on its platform, the one who uploaded the ad on VerdemADS is completely responsible for his ad.
 
+We could use Linkly-type profiling mechanisms (url shortener).
+
 For more informations read [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service).
 
 ### Our Site
