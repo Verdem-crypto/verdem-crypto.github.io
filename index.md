@@ -92,7 +92,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
 
-<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
+<div style="font-size:16px;margin:0 left;width:300px" class="blockchain-btn"
      data-address="1Q85YekDnc1vhaTvRHCyA3ULLz1y3SZvzf"
      data-shared="false">
     <div class="blockchain stage-begin">
