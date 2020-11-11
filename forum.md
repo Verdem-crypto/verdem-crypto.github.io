@@ -1,2 +1,2 @@
+<a href="https://verdem.tribe.so"><img src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdem.tribe.so%2Ffeed%2Fhome%2Fposts&style=transparent" /></a>
 <button href="https://verdem.tribe.so/" name="button" value="goto" type="button">Click Me to go to the Forum</button>
-<script type="text/javascript" language="javascript" src="https://www.rssdog.com/index.php?url=https%3A%2F%2Fverdem.tribe.so%2Ffeed%2Fhome%2Fdiscussions&amp;mode=javascript&amp;showonly=&amp;maxitems=0&amp;showdescs=1&amp;desctrim=1&amp;descmax=30&amp;tabwidth=100%25&amp;linktarget=_blank&amp;bordercol=%23d4d0c8&amp;headbgcol=%23999999&amp;headtxtcol=%23ffffff&amp;titlebgcol=%23f1eded&amp;titletxtcol=%23000000&amp;itembgcol=%23ffffff&amp;itemtxtcol=%23000000&amp;ctl=0">
