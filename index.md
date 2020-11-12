@@ -134,3 +134,4 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 <sub><sup>The ads are here to support my work, sorry for them...</sup></sub>
 
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<meta name="a.validate.01" content="f450c3f817c166870e814ae8c8e23bdf3fbb">
