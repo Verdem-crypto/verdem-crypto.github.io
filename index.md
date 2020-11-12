@@ -53,7 +53,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another 3 websites are under construction, they are not ready yet but will be soon!
 
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877183"></script>
+<iframe src="https://verdemcdn-fh6gl39nglxzhlup.netlify.app/verdemads/scripts/eng-verdem-private3904.html?utm_source=verdemblog-blogspot-com&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-itaeng-9324-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ### MUSIC
 
@@ -105,7 +105,7 @@ Or search via the search bar below to support me!
 
 <script async src='https://cse.google.com/cse.js?cx=b9d78546079d9726f'></script><div class="gcse-searchbox-only"></div>
 
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877183"></script>
+<iframe src="https://verdemcdn-fh6gl39nglxzhlup.netlify.app/verdemads/scripts/eng-verdem-private3904.html?utm_source=verdemblog-blogspot-com&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-itaeng-9324-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## OTHER
 
