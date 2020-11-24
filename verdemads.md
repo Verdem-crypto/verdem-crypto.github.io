@@ -1,5 +1,5 @@
 # VerdemADS transparency section
-VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 300 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $2.50 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising associations, really! VerdemADS will browse your website and choose the perfect ads, the ones seen on this page are sample ads.
+VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 100 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $2.50 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising associations, really! VerdemADS will browse your website and choose the perfect ads, the ones seen on this page are sample ads.
 
 If you are an advertiser, let's start from the facts, not all are the same, contact us and we will know how to help you, whatever your budget is!
 
@@ -7,31 +7,21 @@ If you are an advertiser, let's start from the facts, not all are the same, cont
 
 [Privacy Policy](https://verdem-crypto.github.io/verdemads.html#privacy-policy) | [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service)
 
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-
 ## Privacy Policy
-
-**VerdemADS is an advertising network that respects your privacy.**
 
 ### Our Ads
 
 Our ads are HTML/CSS. They may contain graphic images (including animated GIFs) but not Flash/PHP.
 
-Our ad servers don't leave cookies on visitors' computers.
+Every time an ad on our networrk is seen, we profile the user who saw that ad. In the data there could be the IP address and all the data associated with it but we will never know your real name, home address, e-mail address etc ...
 
-VerdemADS is not responsible for the ads on its platform, the one who uploaded the ad on VerdemADS is completely responsible for his ad.
+Our ad servers leave cookies on visitors' computers.
 
-We could use Linkly-type profiling mechanisms (url shortener).
+We could use Linkly-type profiling mechanisms (url shortener). We use Google Analytics.
+
+We also rely on another advertising network, A-ADS, the A-ADS privacy policy can be found [here](https://a-ads.com/privacy_policy).
 
 For more informations read [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service).
-
-### Our Site
-
-We may use cookies, JavaScript and third party components on our main website.
-
-Since we aim to be a fully transparent business, the website statistics are considered public information.
-
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## Terms of service
 
@@ -51,15 +41,15 @@ No refunds are possible once funds have been paid to the publisher.
 
 ### Moderation
 
-VerdemADS reserves the right to reject any ads which may be illegal or considered harmful. Ads with sensitive or questionable content will be marked as such.
+VerdemADS reserves the right to reject any ads which may be illegal or considered harmful. Ads with sensitive or questionable content will be marked as such. We reserve the full right to choose what and how to block.
 
 Ads may be banned at any time, and the remaining funds in the account may be refunded to the advertiser after deduction of any costs incurred by VerdemADS.
 
 ### Fees
 
-Twenty percent of all royalties paid for advertising shall be retained by VerdemADS as fees.
+Thirty percent of all royalties paid for advertising shall be retained by VerdemADS as fees.
 
-These fees do not include PayPal or Bitcoin fees.
+These fees do not include Bitcoin fees.
 
 ### Payment methods
 
@@ -73,10 +63,8 @@ The contact methods are listed [here](https://verdem-crypto.github.io/#contact-m
 
 ### Accepted websites
 
-For publishers, we accept all websites starting from 300 visits per month.
+For publishers, we accept all websites starting from 100 visits per month.
 
 ### Changes
 
 These Terms of Service and all statements on the site may be modified at any time without prior notice. It is the sole and entire responsibility of the user to stay informed with the terms of service at all times.
-
-<iframe src="https://verdem-cdn1.vercel.app/verdemads/scripts/code-verdem3287.html?utm_source=verdem-crypto-github-io&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
