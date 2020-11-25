@@ -5,8 +5,6 @@ document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){do
 
 <p><a href="https://verdemblog.blogspot.com/"><img style="display: block;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
 
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877183"></script>
-
 ### MARCO VERDE (VERDEM)
 #### ABOUT ME
 ##### YOUTUBER, VIDEOMAKER, DEVELOPER, DUMBASS
@@ -83,8 +81,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [VerdemForums PM (ENG-ITA)](http://verdemtv.altervista.org/forum/private.php?action=send&uid=1)
 
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877183"></script>
-
 ## SUPPORT ME
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
@@ -123,8 +119,6 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877183"></script>
-
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [GitHub Markdown](http://github.com/Verdem-crypto/verdem-crypto.github.io/blob/main/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
@@ -133,4 +127,3 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <meta name="a.validate.01" content="f450c3f817c166870e814ae8c8e23bdf3fbb">
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickperformance.com/a/display.php?r=3877187"></script>
