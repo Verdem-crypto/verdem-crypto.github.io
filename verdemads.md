@@ -1,9 +1,9 @@
 # VerdemADS transparency section
-VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 100 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $2.50 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising associations, really! VerdemADS will browse your website and choose the perfect ads, the ones seen on this page are sample ads.
+VerdemADS is a newcomer in the advertising field, we needed an online advertising company that did NOT have huge restrictions, if you are a publisher (webmaster) you can join the VerdemADS advertising network by having a site that makes a minimum of 100 views per month, plus, here at VerdemADS everything is done by hand, we will pay you when your website has reached $1 profit via Bitcoin, to get started right away, contact us, don't be shy, we are super quick to respond. We are NOT like other online advertising networks, really! VerdemADS will browse your website and choose the perfect ads, the ones seen on this page are sample ads.
 
 If you are an advertiser, let's start from the facts, not all are the same, contact us and we will know how to help you, whatever your budget is!
 
-**REGISTRATIONS ARE CLOSED FOR NOW**
+**REGISTRATIONS ARE OPEN**
 
 [Privacy Policy](https://verdem-crypto.github.io/verdemads.html#privacy-policy) | [Terms of Service](https://verdem-crypto.github.io/verdemads.html#terms-of-service)
 
@@ -13,7 +13,7 @@ If you are an advertiser, let's start from the facts, not all are the same, cont
 
 Our ads are HTML/CSS. They may contain graphic images (including animated GIFs) but not Flash/PHP.
 
-Every time an ad on our networrk is seen, we profile the user who saw that ad. In the data there could be the IP address and all the data associated with it but we will never know your real name, home address, e-mail address etc ...
+Every time an ad on our network is seen, we profile the user who saw that ad. In the data there could be the IP address and all the data associated with it but we will never know your real name, home address, e-mail address etc...
 
 Our ad servers leave cookies on visitors' computers.
 
