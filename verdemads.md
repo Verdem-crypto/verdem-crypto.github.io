@@ -45,6 +45,8 @@ VerdemADS reserves the right to reject any ads which may be illegal or considere
 
 Ads may be banned at any time, and the remaining funds in the account may be refunded to the advertiser after deduction of any costs incurred by VerdemADS.
 
+We will not communicate the advertiser data, if a user wants explanations or questions from the advertiser we will act as an intermediary.
+
 ### Fees
 
 Thirty percent of all royalties paid for advertising shall be retained by VerdemADS as fees.
