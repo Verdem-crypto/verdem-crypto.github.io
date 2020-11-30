@@ -79,7 +79,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [GitHub pages (ENG)](http://verdem-crypto.github.io/)
 
-[VerdemForums PM (ENG-ITA)](http://verdemtv.altervista.org/forum/private.php?action=send&uid=1)
+[VerdemForums 2.0 PM (ENG-ITA)](https://verdem.tribe.so/user/verdem)
 
 ## SUPPORT ME
 
