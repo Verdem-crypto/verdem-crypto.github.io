@@ -113,6 +113,6 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 ### PAGE TYPE
 
-[RAW Markdown](http://verdem-crypto.github.io/index.md) | [GitHub Markdown](http://github.com/Verdem-crypto/verdem-crypto.github.io/blob/main/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
+[RAW Markdown](http://verdem-crypto.github.io/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
 
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
