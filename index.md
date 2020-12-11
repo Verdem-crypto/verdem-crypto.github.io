@@ -55,11 +55,17 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### MUSIC
 
->[PartyBeats](http://li.sten.to/gQYwqED)
+>[PartyBeats (PartyBeats)](http://li.sten.to/gQYwqED)
 >
 >>A little arranged, but I'm proud of what came out of it.
 
->Another 3 songs are under construction, they are not ready yet but will be soon!
+>[Welcome to VerdemSMP (VerdemSMP, V. 1)](https://youtu.be/ZnkiTsnM8Bw)
+>
+>>Intro soundtrack for the VerdemSMP series.
+
+>[See you soon (VerdemSMP, V. 1)](https://youtu.be/jO7rWZFF_Xw)
+>
+>>Outro soundtrack for the VerdemSMP series.
 
 <iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 
