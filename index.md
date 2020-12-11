@@ -1,9 +1,8 @@
-<div id="ziznyciiqvzgvz"><div class="adBanner">AdBlocker checking, please wait...</div></div> 
+<div id="ziznyciiqvzgvz"><div class="adBanner">...</div></div> 
 <script> 
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
 
-### MARCO VERDE (VERDEM)
 #### ABOUT ME
 ##### YOUTUBER, VIDEOMAKER, DEVELOPER, DUMBASS
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube.
@@ -114,7 +113,5 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [GitHub Markdown](http://github.com/Verdem-crypto/verdem-crypto.github.io/blob/main/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
-
-<sub><sup>The ads are here to support my work, sorry for them...</sup></sub>
 
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
