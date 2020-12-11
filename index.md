@@ -3,15 +3,11 @@
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
 
-<p><a href="https://verdemblog.blogspot.com/"><img style="display: block;" src="http://rssimg.com/signature.png?url=https%3A%2F%2Fverdemblog.blogspot.com%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;style=example" width="407" height="58" /></a></p>
-
 ### MARCO VERDE (VERDEM)
 #### ABOUT ME
 ##### YOUTUBER, VIDEOMAKER, DEVELOPER, DUMBASS
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube.
 My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active, in the meantime I had fun uploading videos that were fun for me. Around 2019 things started to get serious with Copyright and various things so I saw a turning point needed: I started making videos according to what people liked, and of course me too. The desire to create something useful for people led me to create an application repository on my first serious website. We arrive at the beginning of 2020: I have 430 subscribers on YouTube, a Discord server and a blog, I made a song, PartyBeats, the song that I and GreenFire003 created. In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube.
-
-<iframe src="https://verdemcdn-fh6gl39nglxzhlup.netlify.app/verdemads/scripts/eng-verdem-private3904.html?utm_source=verdemblog-blogspot-com&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-itaeng-9324-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
 
 ## MY PROJECTS
 
@@ -51,8 +47,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another 3 websites are under construction, they are not ready yet but will be soon!
 
-<iframe src="https://verdemcdn-fh6gl39nglxzhlup.netlify.app/verdemads/scripts/eng-verdem-private3904.html?utm_source=verdemblog-blogspot-com&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-itaeng-9324-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-
 ### MUSIC
 
 >[PartyBeats (PartyBeats)](http://li.sten.to/gQYwqED)
@@ -66,8 +60,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >[See you soon (VerdemSMP, V. 1)](https://youtu.be/jO7rWZFF_Xw)
 >
 >>Outro soundtrack for the VerdemSMP series.
-
-<iframe data-aa="1503655" src="//ad.a-ads.com/1503655?size=250x250" scrolling="no" style="width:250px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 
 ## CONTACT ME
 
@@ -103,12 +95,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
   });
 </script>
 
-Or search via the search bar below to support me!
-
-<script async src='https://cse.google.com/cse.js?cx=b9d78546079d9726f'></script><div class="gcse-searchbox-only"></div>
-
-<iframe src="https://verdemcdn-fh6gl39nglxzhlup.netlify.app/verdemads/scripts/eng-verdem-private3904.html?utm_source=verdemblog-blogspot-com&utm_medium=iframe&utm_campaign=ads" style="border:0px #ffffff none;" name="verdemads-itaeng-9324-iframe" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="250px" width="250px" allowfullscreen></iframe>
-
 ## OTHER
 
 ### TERMS LEGEND
@@ -132,4 +118,3 @@ ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 <sub><sup>The ads are here to support my work, sorry for them...</sup></sub>
 
 <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<meta name="a.validate.01" content="f450c3f817c166870e814ae8c8e23bdf3fbb">
