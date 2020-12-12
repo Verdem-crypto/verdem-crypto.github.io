@@ -95,6 +95,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
   });
 </script>
 
+[Hype.it](https://www.hype.it/invite/4650636d33697173453035513967764738506d6a44673d3d)
+
 ## OTHER
 
 ### TERMS LEGEND
