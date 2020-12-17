@@ -83,7 +83,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Medium (eng-ITA)](https://verdem.medium.com/)
 
-[Linktree (ENG-ITA)](https://linktr.ee/Verdem)
+[Biolinky (ENG-ITA)](https://biolinky.co/verdem)
 
 ## SUPPORT ME
 
