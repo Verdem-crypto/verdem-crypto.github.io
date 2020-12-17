@@ -62,7 +62,9 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >>Outro soundtrack for the VerdemSMP series.
 
 ## CONTACT ME
+
 ### YOU CAN FIND ME ON
+
 [![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
 
 [Twitter (eng-ITA)](http://twitter.com/verdemchannel)
@@ -80,6 +82,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 [VerdemForums 2.0 PM (ENG-ITA)](https://verdem.tribe.so/user/verdem)
 
 [Medium (eng-ITA)](https://verdem.medium.com/)
+
+[Linktree (ENG-ITA)](https://linktr.ee/Verdem)
 
 ## SUPPORT ME
 
