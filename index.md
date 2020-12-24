@@ -105,6 +105,10 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [LetyShops](https://letyshops.com/it/winwin?ww=16221723)
 
+[G2A](https://www.g2a.com/n/verdem)
+
+[Instant Gaming](https://www.instant-gaming.com/it/?igr=Verdem)
+
 ## OTHER
 
 ### TERMS LEGEND
