@@ -67,7 +67,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
 
-[Twitter (eng-ITA)](http://twitter.com/verdemchannel)
+[Twitter (eng-ITA)](http://twitter.com/verdem_)
 
 [GitHub (ENG-ita)](http://github.com/Verdem-crypto)
 
