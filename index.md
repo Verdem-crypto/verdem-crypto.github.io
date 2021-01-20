@@ -85,6 +85,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Biolinky (ENG-ITA)](https://biolinky.co/verdem)
 
+[Twitch](https://www.twitch.tv/verdem)
+
 ## SUPPORT ME
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
