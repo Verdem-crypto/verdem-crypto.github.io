@@ -87,6 +87,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Twitch](https://www.twitch.tv/verdem)
 
+[li.sten.to (Music)](https://li.sten.to/verdem)
+
 ## SUPPORT ME
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
