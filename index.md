@@ -1,4 +1,7 @@
-<head><meta name="adlane" content="19e8029918bd2e97689f5f8227b95d95"/></head>
+<head>
+  <meta name="adlane" content="19e8029918bd2e97689f5f8227b95d95"/>
+  <meta name="a.validate.01" content="e3fda6c0dee6c37ec303392b91a6b9798574" />
+</head>
 
 <div id="ziznyciiqvzgvz"><div class="adBanner">...</div></div> 
 <script> 
