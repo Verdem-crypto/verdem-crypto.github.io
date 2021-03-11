@@ -1,8 +1,9 @@
+<head><meta name="adlane" content="19e8029918bd2e97689f5f8227b95d95"/></head>
+
 <div id="ziznyciiqvzgvz"><div class="adBanner">...</div></div> 
 <script> 
 document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
 </script>
-
 
 #### ABOUT ME
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube and on my Tech Blog.
