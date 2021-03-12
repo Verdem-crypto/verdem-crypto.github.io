@@ -55,6 +55,7 @@ function myFunction() {
 	  <button onclick="myFunction()">Toggle dark mode</button> -->
 	  
 	  </br>
+	<div class="hidden">
 	  	  <div class="container" align="center">
       <div id="controls" class="six columns">
           <button id="decrypt-button" style="display: none;">Decrypt</button>
@@ -76,6 +77,16 @@ function myFunction() {
               <h6>Share your paste</h6>
               <input id="share-url" type="text" value=""></input>
           </div>
+	</div>
+<script>
+	.hidden {
+  display: none;
+}
+$(function()
+{
+  $(".hidden").show();
+});
+</script>
 
 	<hr>
 	<h1 style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://verdem-crypto.github.io/verpaste/"><strong>VerPaste</strong></a></span></h1>
