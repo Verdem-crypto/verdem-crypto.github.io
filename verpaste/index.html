@@ -142,30 +142,9 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <div align="center"><script data-cfasync='false' type='text/javascript' src='//p418469.clksite.com/adServe/banners?tid=418469_837109_3'></script></div>
 </div>
 
-<script>
-var isPopupBlockerActivated = function(popupWindow) {
-    if (popupWindow) {
-        if (/chrome/.test(navigator.userAgent.toLowerCase())) {
-            try {
-                popupWindow.focus();
-            } catch (e) {
-                return true;
-            }
-        } else {
-            popupWindow.onload = function() {
-                return (popupWindow.innerHeight > 0) === false;
-            };
-        }
-    } else {
-        return true;
-    }
-    return false;
-};
-var popup = console.log("NoPopupBlock");
-if (isPopupBlockerActivated(popup)) {
-window.location.href = "https://verdem-crypto.github.io/verpaste/ad-js-blocker.html";
-}
-</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url=https://verdem-crypto.github.io/verpaste/ad-js-blocker.html" />
+</noscript>
 
   </body>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
