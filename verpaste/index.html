@@ -55,7 +55,7 @@ function myFunction() {
 	  <button onclick="myFunction()">Toggle dark mode</button> -->
 	  
 	  </br>
-	<div class="hidden">
+	
 	  	  <div class="container" align="center">
       <div id="controls" class="six columns">
           <button id="decrypt-button" style="display: none;">Decrypt</button>
@@ -77,14 +77,13 @@ function myFunction() {
               <h6>Share your paste</h6>
               <input id="share-url" type="text" value=""></input>
           </div>
-	</div>
 <script>
-	.hidden {
+	.container {
   display: none;
 }
 $(function()
 {
-  $(".hidden").show();
+  $(".contaier").show();
 });
 </script>
 
