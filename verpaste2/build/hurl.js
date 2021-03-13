@@ -23,14 +23,14 @@ function getUrlContent () {
   return ''
 }
 
-function loadEditor () {
-  var submitEl = document.querySelectorAll('#submit')[0]
+// function loadEditor () {
+//  var submitEl = document.querySelectorAll('#submit')[0]
 
-  editorPanelEl.style.display = 'block'
+//  editorPanelEl.style.display = 'block'
 
-  if (window.location.hash.substr(0, 6) === '#edit:') {
-    simplemde.value(getUrlContent())
-  }
+//  if (window.location.hash.substr(0, 6) === '#edit:') {
+//    simplemde.value(getUrlContent())
+//  }
 
   submitEl.addEventListener('click', function () {
     var binaryString = pako.deflate(simplemde.value(), {to: 'string'})
