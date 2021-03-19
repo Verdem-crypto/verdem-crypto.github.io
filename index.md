@@ -5,11 +5,6 @@
   <script async src="https://arc.io/widget.min.js#XTPAA4p9"></script>
 </head>
 
-<div id="ziznyciiqvzgvz"><div class="adBanner">...</div></div> 
-<script> 
-document.addEventListener("DOMContentLoaded",function(){setTimeout(function(){document.getElementById("ziznyciiqvzgvz").offsetHeight?document.getElementById("ziznyciiqvzgvz").style.display="none":document.getElementById("ziznyciiqvzgvz").innerHTML='<iframe style="border: none;width: 100%;height: 110px;overflow: hidden;" src="https://disableadblock.com/widget/small/" height="110" scrolling="no"></iframe>'},1e3)});
-</script>
-
 #### ABOUT ME
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube and on my Tech Blog.
 
@@ -28,7 +23,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>All the most important tech news in one place. There is no need to register. The service is free!
 
->[VerForward (ITA)](http://verforward.blogspot.com/) (CLOSED!)
+>[VerForward (ITA) (ARCHIVED)](http://verforward.blogspot.com/) (CLOSED!)
 >
 >>Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
@@ -44,15 +39,19 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
->[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml)
+>[VerGitHTML (ENG) (ARCHIVED)](http://verdemtv.page.link/vergithtml)
 >
 >>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
->[VerMUSH (ENG)](http://verdemtv.page.link/vermush)
+>[VerMUSH (ENG) (ARCHIVED)](http://verdemtv.page.link/vermush)
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
->Another 3 websites are under construction, they are not ready yet but will be soon!
+>[VerPaste (ENG)](http://verdemtv.page.link/verpaste)
+>
+>>VerPaste is a simple, anonymous, note-taking app with sharing, saving and encryption features. There is no need to register. The service is free!
+
+>Another 2 websites are under construction, they are not ready yet but will be soon!
 
 ### MUSIC
 
