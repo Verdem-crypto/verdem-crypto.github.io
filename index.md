@@ -23,7 +23,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>All the most important tech news in one place. There is no need to register. The service is free!
 
->[VerForward (ITA) (ARCHIVED)](http://verforward.blogspot.com/) (CLOSED!)
+>[VerForward (ITA)](http://verforward.blogspot.com/) (ARCHIVED)
 >
 >>Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
@@ -39,11 +39,11 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
->[VerGitHTML (ENG) (ARCHIVED)](http://verdemtv.page.link/vergithtml)
+>[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml) (ARCHIVED)
 >
 >>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
->[VerMUSH (ENG) (ARCHIVED)](http://verdemtv.page.link/vermush)
+>[VerMUSH (ENG)](http://verdemtv.page.link/vermush) (ARCHIVED)
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
@@ -51,7 +51,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerPaste is a simple, anonymous, note-taking app with sharing, saving and encryption features. There is no need to register. The service is free!
 
->[VerPaste (ENG) (UNDER CONSTRUCTION)](http://verdemtv.page.link/versearch)
+>[VerPaste (ENG)](http://verdemtv.page.link/versearch) (UNDER CONSTRUCTION)
 >
 >>VerSearch is a simple, anonymous, tool to search the web. There is no need to register. The service is free!
 
