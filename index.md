@@ -79,13 +79,11 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Twitter (eng-ITA)](http://twitter.com/verdem_)
 
-[GitHub (ENG-ita)](http://github.com/Verdem-crypto)
+[GitHub (ENG)](http://github.com/Verdem-crypto)
 
-[YouTube channel (eng-ITA)](http://www.youtube.com/Verdem)
+[YouTube channel (ITA)](http://www.youtube.com/Verdem)
 
 [Email (ENG-ITA)](mailto:verdemcontact@gmail.com)
-
-[Discord server (ITA)](http://discord.gg/MQPfYh4)
 
 [GitHub pages (ENG)](http://verdem-crypto.github.io/)
 
@@ -93,11 +91,9 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Medium (eng-ITA)](https://verdem.medium.com/)
 
-[Biolinky (ENG-ITA)](https://biolinky.co/verdem)
+[Twitch (ITA)](https://www.twitch.tv/verdem)
 
-[Twitch](https://www.twitch.tv/verdem)
-
-[li.sten.to (Music)](https://li.sten.to/verdem)
+[li.sten.to (INT)](https://li.sten.to/verdem)
 
 ## SUPPORT ME
 
@@ -139,8 +135,8 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
+INT= INTERNATIONAL
+
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
-
-<script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
