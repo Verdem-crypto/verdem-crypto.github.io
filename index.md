@@ -9,7 +9,7 @@
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube and on my Tech Blog.
 
 #### MY STORY
-My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active. Around 2019 the desire to create something useful for people led me to create an application repository on my first serious website. At the beginning of 2020: I created a Discord server and a Tech Blog, I made a song, PartyBeats. In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube, a few days ago I made two new Soundtrack songs for a series on my YouTube channel.
+My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active. Around 2019 the desire to create something useful for people led me to create an application repository on my first serious website. At the beginning of 2020 I created a Discord server and a Tech Blog, a file hosting website and a bunch of other websites, I even made a song, "PartyBeats". During 2020 I created other songs with the help of GreenFire, namely "Welcome To VerdemSMP" and "VerdemSMP - See You Soon", soundtracks for our new Italian Minecraft series on YouTube "VerdemSMP". In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube. Some time ago I created a new website for sharing text notes online and I updated my file hosting website to an official-ish version.
 
 ## MY PROJECTS
 
