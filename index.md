@@ -75,7 +75,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ### YOU CAN FIND ME ON
 
-[![Discord](https://discord.c99.nl/widget/theme-1/328151909837832193.png)](/#contact-me)
+[Discord (ENG-ITA)](https://discordapp.com/users/328151909837832193)
 
 [Twitter (eng-ITA)](http://twitter.com/verdem_)
 
