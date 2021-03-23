@@ -59,6 +59,10 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >> YouTube AD AutoSkipper is an extension that automatically skips ads after YouTube provides a skip ad button. It does not block ads, it is not an AdBlocker. There is no need to register. The service is free!
 
+>[Verdem Forums](https://verdem.tribe.so/)
+>
+>> Verdem Forums, the place where you can talk about anything you want. There is no need to register. The service is free!
+
 >Another website is under construction, it's not ready yet but will be soon!
 
 ### MUSIC
