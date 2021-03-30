@@ -51,7 +51,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerPaste is a simple, anonymous, note-taking app with sharing, saving and encryption features. There is no need to register. The service is free!
 
->[VerPaste (ENG)](http://verdemtv.page.link/versearch) (UNDER CONSTRUCTION)
+>[VerSearch (ENG)](http://verdemtv.page.link/versearch) (UNDER CONSTRUCTION)
 >
 >>VerSearch is a simple, anonymous, tool to search the web. There is no need to register. The service is free!
 
