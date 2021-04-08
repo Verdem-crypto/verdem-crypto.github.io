@@ -5,6 +5,8 @@
   <script async src="https://arc.io/widget.min.js#XTPAA4p9"></script>
 </head>
 
+<h3 style="text-align: center;"><strong>MESSAGE FOR GOOGLE ADSENSE TEAM: THIS WEBSITE IS NOT COMPOSED ONLY FROM THE MAIN PAGE THAT IS THIS BUT HAS MORE PAGES, THIS IS A THING TO SPECIFY HERE SINCE I CANNOT CONTACT YOU IN ANY WAY... PLEASE LOOK AT THE OTHER PAGES LIKE <a href="https://verdem-crypto.github.io/verpaste/">VERPASTE</a>. THANKS :)</strong></h3>
+
 #### ABOUT ME
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube and on my Tech Blog.
 
