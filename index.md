@@ -3,6 +3,7 @@
   <meta name="a.validate.01" content="e3fda6c0dee6c37ec303392b91a6b9798574" />
   <meta name="optiads" content="WGRYcGZ2MnY3UVdSb1o2eFdmV0V3QT09">
   <script async src="https://arc.io/widget.min.js#XTPAA4p9"></script>
+  <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <h3 style="text-align: center;"><strong>MESSAGE FOR GOOGLE ADSENSE TEAM: THIS WEBSITE IS NOT COMPOSED ONLY FROM THE MAIN PAGE THAT IS THIS BUT HAS MORE PAGES, THIS IS A THING TO SPECIFY HERE SINCE I CANNOT CONTACT YOU IN ANY WAY... PLEASE LOOK AT THE OTHER PAGES LIKE <a href="https://verdem-crypto.github.io/verpaste/">VERPASTE</a>. THANKS :)</strong></h3>
