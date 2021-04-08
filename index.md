@@ -14,6 +14,18 @@ Hi, my name is Marco and I am a student in Italy, I am quite good at creating va
 #### MY STORY
 My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active. Around 2019 the desire to create something useful for people led me to create an application repository on my first serious website. At the beginning of 2020 I created a Discord server and a Tech Blog, a file hosting website and a bunch of other websites, I even made a song, "PartyBeats". During 2020 I created other songs with the help of GreenFire, namely "Welcome To VerdemSMP" and "VerdemSMP - See You Soon", soundtracks for our new Italian Minecraft series on YouTube "VerdemSMP". In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube. Some time ago I created a new website for sharing text notes online and I updated my file hosting website to an official-ish version.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7720650068"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## MY PROJECTS
 
 ### WEBSITES
@@ -81,6 +93,18 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >[See you soon (VerdemSMP, V. 1)](https://youtu.be/jO7rWZFF_Xw)
 >
 >>Outro soundtrack for the VerdemSMP series.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7720650068"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## CONTACT ME
 
