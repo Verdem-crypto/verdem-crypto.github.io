@@ -94,6 +94,12 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>Outro soundtrack for the VerdemSMP series.
 
+### PODCAST
+
+>[Verdem's Corner (ITA)](https://open.spotify.com/show/12eO75SpYRdj4QxC1qklDW)
+>
+>>If you are down in the dumps, you have finished the entire Netflix catalog or have long since abandoned the usual crime television program, listen to this podcast and you will not regret it. Welcome to Verdem's Corner! :)
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 2 -->
 <ins class="adsbygoogle"
