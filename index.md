@@ -181,5 +181,3 @@ INT= INTERNATIONAL
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
-
-<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="207658032"></script>
