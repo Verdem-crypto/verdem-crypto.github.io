@@ -52,8 +52,21 @@
     <div>
         <span id='close'>X</span>
         <p><strong>ADVERTISEMENT</strong></p>
-<iframe data-aa="1609945" src="//ad.a-ads.com/1609945?size=300x250" scrolling="no" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
-</div>
+
+    <div id="twitch-embed"></div>
+
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 320,
+        height: 320,
+        channel: "verdem",
+        parent: ["verdem-crypto.github.io"]
+      });
+    </script>
+    
+    </div>
 </a>
 
 <style>
@@ -62,8 +75,8 @@
     bottom:0;
     font-size: 12px;
     font-family: tahoma;
-    height: 300px;
-    width: 322px;
+    height: 320px;
+    width: 644px;
     border: 1px solid #ececec;
     border-radius: 10px;
     color: #555;
