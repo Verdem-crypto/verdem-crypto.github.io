@@ -46,7 +46,73 @@
 </div>
 </div>
 </div>
-</body>
 </div>
+  
+  <a class="fragment">
+    <div>
+        <span id='close'>X</span>
+        <p><strong>ADVERTISEMENT</strong></p>
+<iframe data-aa="1609945" src="//ad.a-ads.com/1609945?size=300x250" scrolling="no" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+</div>
+</a>
+
+<style>
+.fragment {
+    position:fixed;
+    bottom:0;
+    font-size: 12px;
+    font-family: tahoma;
+    height: 300px;
+    width: 322px;
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    color: #555;
+    background: #fff;
+    display: block;
+    padding: 10px;
+    box-sizing: border-box;
+    text-decoration: none;
+    margin-bottom: 90px;
+    margin-left: 10px;
+}
+
+.fragment:hover {
+    box-shadow: 2px 2px 5px rgba(0,0,0,.2);
+}
+
+.fragment img { 
+    float: left;
+    margin-right: 10px;
+}
+
+
+.fragment h3 {
+    padding: 0;
+    margin: 0;
+    color: #369;
+}
+.fragment h4 {
+    padding: 0;
+    margin: 0;
+    color: #000;
+}
+#close {
+    float: right;
+    display:inline-block;
+    padding:2px 5px;
+    background:#ccc;
+}
+</style>
+
+<script>
+window.onload = function(){
+    document.getElementById('close').onclick = function(){
+        this.parentNode.parentNode.parentNode
+        .removeChild(this.parentNode.parentNode);
+        return false;
+    };
+};
+</script>
+  
 </body>
 </html>
