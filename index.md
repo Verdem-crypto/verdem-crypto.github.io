@@ -5,6 +5,7 @@
   <script async src="https://arc.io/widget.min.js#XTPAA4p9"></script>
   <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
+<!-- TradeDoubler site verification 3218007 -->
 
 <h3 style="text-align: center;"><strong>MESSAGE FOR GOOGLE ADSENSE TEAM: THIS WEBSITE IS NOT COMPOSED ONLY FROM THE MAIN PAGE THAT IS THIS BUT HAS MORE PAGES, THIS IS A THING TO SPECIFY HERE SINCE I CANNOT CONTACT YOU IN ANY WAY... PLEASE LOOK AT THE OTHER PAGES LIKE <a href="https://verdem-crypto.github.io/verpaste/">VERPASTE</a>. THANKS :)</strong></h3>
 
