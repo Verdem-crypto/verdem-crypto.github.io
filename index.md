@@ -16,13 +16,12 @@ Hi, my name is Marco and I am a student in Italy, I am quite good at creating va
 My adventure in the Internet field began on December 25, 2014, I created my channel (Verdem) that is still active. Around 2019 the desire to create something useful for people led me to create an application repository on my first serious website. At the beginning of 2020 I created a Discord server and a Tech Blog, a file hosting website and a bunch of other websites, I even made a song, "PartyBeats". During 2020 I created other songs with the help of GreenFire, namely "Welcome To VerdemSMP" and "VerdemSMP - See You Soon", soundtracks for our new Italian Minecraft series on YouTube "VerdemSMP". In my spare time I like to learn more about PHP and JavaScript and do stupid things on YouTube. Some time ago I created a new website for sharing text notes online and I updated my file hosting website to an official-ish version.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
      data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="7969993706"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -81,6 +80,17 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another website is under construction, it's not ready yet but will be soon!
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7969993706"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### MUSIC
 
 >[PartyBeats (PartyBeats)](http://li.sten.to/gQYwqED)
@@ -100,18 +110,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >[Verdem's Corner (ITA)](https://open.spotify.com/show/12eO75SpYRdj4QxC1qklDW)
 >
 >>If you are down in the dumps, you have finished the entire Netflix catalog or have long since abandoned the usual crime television program, listen to this podcast and you will not regret it. Welcome to Verdem's Corner! :)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## CONTACT ME
 
@@ -137,6 +135,17 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [li.sten.to (INT)](https://li.sten.to/verdem)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7969993706"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## SUPPORT ME
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
@@ -161,18 +170,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Instant Gaming](https://www.instant-gaming.com/it/?igr=Verdem)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## OTHER
 
 ### TERMS LEGEND
@@ -190,6 +187,17 @@ ITA-eng= MORE ITALIAN LANGUAGE, LESS ENGLISH LANGUAGE
 ita-ENG= LESS ITALIAN LANGUAGE, MORE ENGLISH LANGUAGE
 
 INT= INTERNATIONAL
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7969993706"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### PAGE TYPE
 
