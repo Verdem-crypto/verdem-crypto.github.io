@@ -60,6 +60,18 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7720650068"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 >[VerMUSH (ENG)](http://verdemtv.page.link/vermush) (ARCHIVED)
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
@@ -173,18 +185,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 [G2A](https://www.g2a.com/n/verdem)
 
 [Instant Gaming](https://www.instant-gaming.com/it/?igr=Verdem)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## OTHER
 
