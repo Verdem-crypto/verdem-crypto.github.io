@@ -9,17 +9,6 @@
   <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7969993706"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 #### ABOUT ME
 Hi, my name is Marco and I am a student in Italy, I am quite good at creating various types of websites, I also create content on YouTube and on my Tech Blog.
 
@@ -69,18 +58,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml) (ARCHIVED)
 >
 >>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 >[VerMUSH (ENG)](http://verdemtv.page.link/vermush) (ARCHIVED)
 >
@@ -160,18 +137,6 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [li.sten.to (INT)](https://li.sten.to/verdem)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="7720650068"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## SUPPORT ME
 
 [![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
@@ -195,6 +160,18 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 [G2A](https://www.g2a.com/n/verdem)
 
 [Instant Gaming](https://www.instant-gaming.com/it/?igr=Verdem)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5690098405536634"
+     data-ad-slot="7720650068"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## OTHER
 
