@@ -1,29 +1,3 @@
 ## BUYMEACOFFEE SUPPORTERS
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- verdem-crypto1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="3992676204"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-NO SUPPORTERS HERE... SO SAD ALEXA PLAY DESPACITO
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- verdem-crypto1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5690098405536634"
-     data-ad-slot="3992676204"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<p style="text-align: center;"><a href="https://www.buymeacoffee.com/Verdem/c/1180373"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TUM4d05DOHpZemxoTURobE1HSXhNekEyT0dJNFlqZzFORFF3WWpoalpUbGxNMlk1Tmk1cWNHYz0mc2l6ZT0zMDAmbmFtZT1WZXJkZW0=&amp;comments=ZXh0cmFzX2NsYWlt&amp;title=Q2lybyBjbGFpbWVkIFN1cHBvcnQgVmVySG9zdA==&amp;creator=Verdem&amp;design_code=1&amp;design_color=%235F7FFF" alt="" /></a></p>
