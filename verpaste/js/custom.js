@@ -49,7 +49,7 @@ $(document).ready(function () {
             key = $('#key-gen').val(); // Get key value
 
         if (text === '') {
-            $('.alert').show().text("Jot something first!").delay(3000).fadeOut('slow');
+            $('.alert').show().text("Write something first!").delay(3000).fadeOut('slow');
             e.preventDefault();
         } else if (key.length === 0) { // If key is empty, use encoding method
 
