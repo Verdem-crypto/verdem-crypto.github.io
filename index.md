@@ -64,11 +64,15 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
+>[VerWiki](https://verdemtv.page.link/verwiki)
+>
+>> VerWiki is a public space where you can talk about anything! Do as if you were at home and create as many pages as you want on topics that you like. There is no need to register. The service is free!
+
 >[VerPaste (ENG)](http://verdemtv.page.link/verpaste)
 >
 >>VerPaste is a simple, anonymous, note-taking app with sharing, saving and encryption features. There is no need to register. The service is free!
 
->[VerSearch (ENG)](http://verdemtv.page.link/versearch) (UNDER CONSTRUCTION)
+>[VerSearch (ENG)](http://verdemtv.page.link/versearch) (HEAVILY UNDER CONSTRUCTION)
 >
 >>VerSearch is a simple, anonymous, tool to search the web. There is no need to register. The service is free!
 
