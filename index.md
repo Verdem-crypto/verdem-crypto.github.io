@@ -90,6 +90,10 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 >Another website is under construction, it's not ready yet but will be soon!
 
+>[VerHide](https://verdemtv.altervista.org/verhide/) (BETA)
+>
+>> Hide your HTTP Referer: link to other websites without revealing your website. There is no need to register. The service is free!
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
