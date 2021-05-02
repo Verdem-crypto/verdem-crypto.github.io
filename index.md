@@ -8,6 +8,7 @@
   <meta name="exoclick-site-verification" content="549c1d6ba045f4093d077c20ec73b8c8">
   <meta name="propeller" content="cbaa0d909a92f01bfb4c4690a97a0056">
   <meta name='dmca-site-verification' content='cmNZcEJyTG9kWUZTYmhZN3BIMWJmRlJoSTE3c0Q2Tm9lbkxRRmRCUG9hWT01' />
+  <meta name="purpleads-verification" content="0fcb9669c078331c57c8fb7b">
   <script data-ad-client="ca-pub-5690098405536634" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
