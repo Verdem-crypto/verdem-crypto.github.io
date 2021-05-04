@@ -199,7 +199,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
     });
   });
 </script>
-or
+
 <div id="cd343"></div>
 <script>
   !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
