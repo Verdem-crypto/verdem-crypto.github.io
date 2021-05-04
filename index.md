@@ -216,8 +216,8 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 <script>
   !function(c){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.onload=c,t.src="//lab.subinsb.com/projects/francium/cryptodonate/widget.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}(function(){
     Fr.loadCD("cd863", {
-      coin: "dogecoin",
-      address: "DTBfKykaut43bfXoEyQzdBJ4Zv5FFVNw4B",
+      coin: "bitcoincash",
+      address: "qrkw8jq5599gnn5ltpmq8rgrk6tehefgxsxt82qjv4",
       buttonClass: "",
       dialogClass: "",
     });
