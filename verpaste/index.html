@@ -105,25 +105,27 @@ $(function()
 
 <script>
 function aRed1() {
-window.open('https://verdemads-srvcdn.netlify.app/redirect/popunder-net-trafficback-cpx24.html' , '_blank', 'toolbar=0,location=0,menubar=0,status=1,scrollbars=1,blur=1');
+window.open('https://verdemads-srvcdn.netlify.app/redirect/bestnets.html' , '_blank', 'toolbar=0,location=0,menubar=0,status=1,scrollbars=1,blur=1');
 }
 </script>
 	
-	<!--- START OF CPX24 CODE --->
-<script type=text/javascript>
-var _cpp = _cpp || [];
-_cpp['source_id'] = '86598';
-_cpp['pop_type'] = '11';
-_cpp['onePer'] = '0';
-_cpp['freq'] = '900';
-_cpp['fb'] = '10';
-(function() {
-var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//cdn1.adcdnx.com/s/adp1v3.js');
-var cs = document.getElementsByTagName('script')[0];
-cs.parentNode.insertBefore(hs, cs);
-})();</script>
-<!--- END OF CPX24 CODE --->			
+    <script type="text/javascript" src="https://rawcdn.githack.com/rafelsanso/js-popunder/6d5d4279348fe3d3519d2f52ac95f53ca06c1319/popup.min.js"></script>
+    <script>
+        // SmartPopunder.make('http://example.com/newwindow', {newTab: false});
+        SmartPopunder.make('https://verdemads-srvcdn.netlify.app/redirect/bestnets.html', {newTab: true, cookieExpires: 12 * 2});
+        // version 2.3
+        SmartPopunder.make('https://verdemads-srvcdn.netlify.app/redirect/bestnets.html', {
+          newTab: true,
+          beforeOpen: function(pop) {
+            console.log(pop);
+            alert('before fired');
+          },
+          afterOpen: function(pop) {
+            console.log(pop);
+            alert('after fired');
+          }
+        });
+    </script>
 	
 	<!-- <script type="text/javascript">
    var uid = '317748';
