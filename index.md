@@ -96,7 +96,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerSearch is a simple, anonymous, tool to search the web. There is no need to register. The service is free!
 
->[YouTube AD AutoSkipper](https://verdem-cdn1.vercel.app/public-downloads/youtube-ad-autoskipper/download.html) (BETA)
+>[YouTube AD AutoSkipper](https://894eufwdpr64fc7qz5hb.netlify.app/public-downloads/youtube-ad-autoskipper/download.html) (BETA)
 >
 >> YouTube AD AutoSkipper is an extension that automatically skips ads after YouTube provides a skip ad button. It does not block ads, it is not an AdBlocker. There is no need to register. The service is free!
 
