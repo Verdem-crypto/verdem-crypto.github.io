@@ -11,7 +11,7 @@ function getHash() {
   var addd = window.location.search;
   return addd.substring(1)+hash;
 }
-document.write('<div align="center"><video style="border: 2px solid #006fd0;" poster="http://www.blablamarketing.it/wp-content/uploads/2016/01/vector-video-player-941434_960_720.png" controls autoplay controlsList="nodownload"><source src='+getHash()+' type="video/mp4"></video></div>')
+document.write('<div align="center"><video style="border: 2px solid #006fd0;" controls autoplay controlsList="nodownload"><source src='+getHash()+' type="video/mp4"></video></div>')
 </script>
 
 <style>
