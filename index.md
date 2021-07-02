@@ -61,7 +61,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>All the most important tech news in one place. There is no need to register. The service is free!
 
->[VerForward (ITA)](http://verforward.blogspot.com/) (ARCHIVED)
+>[VerForward (ITA)](http://verforward.blogspot.com/) (CLOSED)
 >
 >>Can you have a copy of your email? Enter this website! There is no need to register. The service is free!
 
@@ -69,7 +69,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>This service helps disguise links so you can play pranks on your friends! There is no need to register. The service is free!
 
->[VerBin (ENG)](http://verdemtv.page.link/verbin/) (IN MAINTENANCE)
+>[VerBin (ENG)](http://verdemtv.page.link/verbin/) (CLOSED)
 >
 >>VerBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. There is no need to register. The service is free!
 
@@ -77,11 +77,11 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerHost provides an easy possibility for you to send files online. There is no need to register. The service is free!
 
->[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml) (ARCHIVED)
+>[VerGitHTML (ENG)](http://verdemtv.page.link/vergithtml) (CLOSED)
 >
 >>VerGitHTML allows you to render GitHub and BitBucket HTML files without cloning or downloading whole repositories. There is no need to register. The service is free!
 
->[VerMUSH (ENG)](http://verdemtv.page.link/vermush) (ARCHIVED)
+>[VerMUSH (ENG)](http://verdemtv.page.link/vermush) (CLOSED)
 >
 >>VerMUSH allows you to shorten multiple links at the same time by creating a dedicated page that contains all links automatically. There is no need to register. The service is free!
 
@@ -93,11 +93,11 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 >
 >>VerPaste is a simple, anonymous, note-taking app with sharing, saving and encryption features. There is no need to register. The service is free!
 
->[VerSearch (ENG)](http://verdemtv.page.link/versearch) (HEAVILY UNDER CONSTRUCTION)
+>[VerSearch (ENG)](http://verdemtv.page.link/versearch) (CLOSED)
 >
 >>VerSearch is a simple, anonymous, tool to search the web. There is no need to register. The service is free!
 
->[YouTube AD AutoSkipper](https://894eufwdpr64fc7qz5hb.netlify.app/public-downloads/youtube-ad-autoskipper/download.html) (BETA)
+>[YouTube AD AutoSkipper](https://youtubeadautoskipper.blogspot.com/) (BETA)
 >
 >> YouTube AD AutoSkipper is an extension that automatically skips ads after YouTube provides a skip ad button. It does not block ads, it is not an AdBlocker. There is no need to register. The service is free!
 
